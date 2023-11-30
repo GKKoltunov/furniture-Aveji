@@ -1,0 +1,45 @@
+footer {
+  padding-bottom: 16px;
+  display: flex;
+  flex-direction: row;
+  margin-top: 120px;
+  justify-content: space-between;
+}
+
+.footerlink {
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  text-decoration: none;
+}
+
+.vktg {
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+
+.footerinfo {
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  text-transform: uppercase;
+}
+
+.footerlinks {
+  margin-top: auto;
+}

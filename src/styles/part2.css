@@ -1,0 +1,68 @@
+
+h2 {
+  width: 562px;
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Helvetica;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 0;
+}
+.part2 {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 120px;
+  
+  
+}
+
+.part2_1 {
+  width: 678px;
+  display: flex;
+  flex-direction: column;
+}
+
+.pp2 {
+  width: 446px;
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  
+  margin-bottom: 16px;
+}
+
+h3 {
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Helvetica;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-bottom: 0;
+}
+
+.pp2_1 {
+  width: 146px;
+  color: #212529;
+  font-feature-settings: "clig" off, "liga" off;
+  font-family: Roboto;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 140%;
+  margin-top: 0;
+}
+
+.part2_1 {
+  margin-top: 44px;
+  
+  padding: 0;
+  gap: 24px;
+}
