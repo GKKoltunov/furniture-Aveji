@@ -22,7 +22,7 @@ header {
   font-weight: 400;
   line-height: normal;
   text-decoration: none;
-  gap: 8px;
+  
   margin-top: 0px;
 }
 
@@ -33,6 +33,7 @@ a:hover {
 ul {
   display: flex;
   flex-direction: column;
+gap: 8px;
 }
 
 .about {
@@ -70,7 +71,8 @@ a {
   display: inline;
   margin-top: auto;
   color: #212529;
-  text-underline-offset: 2px;
+  text-underline-offset: 4px;
+  transition: 2ms;
 }
 
 .part1_1 {
