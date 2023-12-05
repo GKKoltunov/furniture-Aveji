@@ -34,7 +34,7 @@ padding: 22px 20px;
 opacity: 0;
 }
 
-.prj__text:hover{
+.project:hover .prj__text{
 opacity: 1;
 transition: 0.5s;
 }

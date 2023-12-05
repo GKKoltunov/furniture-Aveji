@@ -47,12 +47,14 @@ font-weight: 400;
 line-height: 140%; 
 border: none;
 cursor: pointer;
+transition: 0.5s;
 }
 
 .submit:hover {
   color:#212529;
   background:  #FFF;
-  border: 1px black solid
+  border: 1px black solid;
+  
 }
 
 .row{
