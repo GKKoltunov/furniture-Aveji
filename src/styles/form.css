@@ -49,6 +49,12 @@ border: none;
 cursor: pointer;
 }
 
+.submit:hover {
+  color:#212529;
+  background:  #FFF;
+  border: 1px black solid
+}
+
 .row{
   border: none;
   border-bottom:1px #212529 solid ;
@@ -75,3 +81,6 @@ line-height: 140%;
 input:focus{
   outline: 0;
 }
+
+
+

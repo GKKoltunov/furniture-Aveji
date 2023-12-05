@@ -13,3 +13,34 @@
   object-position: center;
   object-fit: cover;
 }
+
+
+.prj__text{
+  width: 445px;
+height: 66px;
+  color: #FFF;
+font-feature-settings: 'clig' off, 'liga' off;
+font-family: Roboto;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 140%; 
+position: absolute;
+bottom: 0;
+background: rgba(33, 37, 41, 0.50);
+display: flex;
+justify-content: space-between;
+padding: 22px 20px;
+opacity: 0;
+}
+
+.prj__text:hover{
+opacity: 1;
+transition: 0.5s;
+}
+
+.project{
+  width: 445px;
+  height: 580px;
+  position: relative;
+}
